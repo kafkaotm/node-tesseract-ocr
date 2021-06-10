@@ -64,7 +64,7 @@ node app.js
 現在應該會在 terminal 中看到 'Example app listening at [http://localhost:](http://localhost:3000/)9527'
 打開瀏覽器就能看到辨識過的字元印出來了
 
-後記
+4. 後記
 
 原本想要把這個 js 檔用 Docker 建立 node 環境去運行，不知道為什麼本地直接執行 node app.js都沒問題，但放到Docker上會跳這個錯
 
