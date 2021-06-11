@@ -3,7 +3,7 @@ const tesseract = require('node-tesseract-ocr')
 
 // init express, set localhost port
 const app = express()
-const port = 9527
+const port = 3000
 
 // OCR function
 async function printResult() {
